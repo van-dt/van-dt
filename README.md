@@ -41,10 +41,10 @@
 | ------------- | ------------- |
 
 
-[statistics]: https://github-readme-stats.vercel.app/api?username=Dark-Star3110&theme=tokyonight&show_icons=true&line_height=20&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25
+[statistics]: https://github-readme-stats.vercel.app/api?username=van-dt&theme=tokyonight&show_icons=true&line_height=20&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25
 
 
-[mostUsedLanguages]: https://githubstatistics.vercel.app/api/top-langs/?username=Dark-Star3110&layout=compact&hide_border=true&bg_color=8282820f&text_color=2f80ed
+[mostUsedLanguages]: https://githubstatistics.vercel.app/api/top-langs/?username=van-dt&layout=compact&hide_border=true&bg_color=8282820f&text_color=2f80ed
 
 [vscode]: https://code.visualstudio.com/
 [html]: https://www.w3schools.com/html/
